@@ -6,7 +6,7 @@ Currently I’m learning Backend Development</br>
 I just started coding since January, 2022</br></br>
 </br></br>
 
-:새싹: I’m currently learning & using :
+:&#127793;: I’m currently learning & using :
 - Programming languages :</br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></img> </br>
 
@@ -20,7 +20,7 @@ I just started coding since January, 2022</br></br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></br>
 </br></br>
 
-:우편함: How to reach me : khw7876@gmail.com
+:&#128231;: How to reach me : khw7876@gmail.com
 
 </br></br>
 
