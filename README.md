@@ -25,3 +25,5 @@ I just started coding since January, 2022</br></br>
 </br></br>
 
 “Thanks for dropping by, hope you find interesting my profile :)”
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhw7876&count_bg=%2300F9D4&title_bg=%233EFF00&icon=&icon_color=%23F3B500&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
