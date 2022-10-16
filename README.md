@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Hyun_woo
 
-
 </br>
 Currently I’m learning Backend Development</br>
 I just started coding since January, 2022</br></br>
 </br></br>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khw7876)](https://github.com/khw7876/github-readme-stats)
 
 :&#127793;: I’m currently learning & using :
 - Programming languages :</br>
